@@ -21,10 +21,10 @@ test2.m
 - Budak V.P., Zheltov V.S., Kalakutsky T.K. USAGE OF LOCAL ESTIMATIONS AND OBJECT SPECTRAL REPRESENTATION AT THE SOLUTION OF GLOBAL ILLUMINATION EQUATION // В сборнике: 21st International Conference on Computer Graphics and Vision, GraphiCon'2011 - Conference Proceedings 2011. С. 50-53. 
 
 ## Примеры визуализаций:
+### Разложение куба по 8, 16 и 32 гармоникам при разбиении зенитного и азимутального угла на 64
 ![][img01]
+### Оригинальная и разложение "головы" по 16 и 32 гармоникам при разбиении зенитного и азимутального угла на 64
 ![][img02]
-![][img03]
 
-[img01]: https://github.com/Zheltov/Illuminarium/blob/master/Images/01.png
-[img02]: https://github.com/Zheltov/Illuminarium/blob/master/Images/vi_01.png
-[img03]: https://github.com/Zheltov/Illuminarium/blob/master/Images/vi_02.png
+[img01]: https://github.com/Zheltov/SHExpansion/blob/master/Images/cube.png
+[img02]: https://github.com/Zheltov/SHExpansion/blob/master/Images/head.png
